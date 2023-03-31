@@ -131,4 +131,17 @@ public class DB {
         }
         return countries;
     }
+    public static void cityId(long id){
+        String SQL="SELECT * FROM  cities WHERE id=?";
+        try(Connection con= connection();
+            PreparedStatement statement= con.prepareStatement(SQL)){
+            statement.setLong(1, id);
+            ResultSet resultSet=statement.executeQuery();
+            resultSet.next();
+            System.out.println("id: "+ resultSet.getLong("id"));
+            System.out.println("name: "+ resultSet.getString("name"));
+        }catch(SQLException sqlException){
+            System.out.println(sqlException.getMessage());
+        }
+    }
 }

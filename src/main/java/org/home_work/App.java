@@ -10,8 +10,9 @@ import java.util.ArrayList;
 public class App 
 {
     public static void main( String[] args ) throws SQLException {
-        System.out.println(DB.getListCities());
-        System.out.println(DB.getListCountries());
+//        System.out.println(DB.getListCities());
+//        System.out.println(DB.getListCountries());
+        DB.cityId(1);
 
 
     }

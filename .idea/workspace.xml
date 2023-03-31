@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bedae59-4486-4175-81d7-591a2d170bdd" name="Changes" comment="" />
+    <list default="true" id="2bedae59-4486-4175-81d7-591a2d170bdd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/134f852a-ccd8-4854-8cad-39fa077c3de7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/134f852a-ccd8-4854-8cad-39fa077c3de7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/home_work/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/home_work/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/home_work/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/home_work/DB.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -28,28 +37,30 @@
     </option>
   </component>
   <component name="ProjectId" id="2NdsiCGvpJNyC0LJ4bpo65LrUhb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/id251/IdeaProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="untitled24" />
@@ -80,7 +91,18 @@
       <workItem from="1680007595809" duration="119000" />
       <workItem from="1680007732467" duration="737000" />
       <workItem from="1680013796756" duration="1601000" />
-      <workItem from="1680077026173" duration="658000" />
+      <workItem from="1680077026173" duration="1392000" />
+      <workItem from="1680084997815" duration="10000" />
+      <workItem from="1680085312462" duration="4000" />
+      <workItem from="1680085329853" duration="83000" />
+      <workItem from="1680085565167" duration="55000" />
+      <workItem from="1680096092153" duration="22000" />
+      <workItem from="1680097247163" duration="29000" />
+      <workItem from="1680102370624" duration="13000" />
+      <workItem from="1680198819407" duration="263000" />
+      <workItem from="1680253776311" duration="218000" />
+      <workItem from="1680254018321" duration="21000" />
+      <workItem from="1680254063839" duration="352000" />
     </task>
     <servers />
   </component>
